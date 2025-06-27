@@ -1,0 +1,19 @@
+{
+  "total_cases": 64,
+  "average_text_length": 9156.328125,
+  "average_word_count": 1242.6875,
+  "average_drug_mentions": 0.078125,
+  "unique_articles": 44,
+  "drug_types": {
+    "tidak diketahui": 61,
+    "narkotika": 1,
+    "narkotika, ganja": 1,
+    "ganja": 1
+  },
+  "verdict_distribution": {
+    "tidak diketahui": 46,
+    "bersalah": 17,
+    "bebas": 1
+  },
+  "processing_date": "2025-06-21"
+}

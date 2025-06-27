@@ -1,0 +1,6 @@
+query_id,predicted_solution,predicted_drug_type,predicted_action,top_5_case_ids
+drug_query_01,pidana penjara,tidak diketahui,menjual,"drug_case_005, drug_case_061, drug_case_050, drug_case_013, drug_case_059"
+drug_query_02,pidana penjara,tidak diketahui,"mengedarkan, menjual, membeli, menyimpan, menggunakan, memproduksi","drug_case_050, drug_case_033, drug_case_005, drug_case_052, drug_case_056"
+drug_query_03,pidana penjara,tidak diketahui,tidak diketahui,"drug_case_064, drug_case_063, drug_case_062, drug_case_061, drug_case_060"
+drug_query_04,pidana penjara,tidak diketahui,"membeli, menyimpan, menggunakan, memproduksi","drug_case_061, drug_case_019, drug_case_052, drug_case_009, drug_case_060"
+drug_query_05,tidak diketahui,tidak diketahui,tidak diketahui,"drug_case_050, drug_case_052, drug_case_042, drug_case_048, drug_case_007"

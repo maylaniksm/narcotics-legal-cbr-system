@@ -1,0 +1,11 @@
+case_id,query,predicted_outcome,actual_outcome,accuracy,confidence
+drug_pred_01,Terdakwa terbukti menjual narkoba jenis sabu-sabu ...,"{'jenis_hukuman': 'pidana penjara', 'jenis_narkoba': 'tidak diketahui', 'jenis_tindakan': 'tidak diketahui', 'confidence': 1.0}",pidana penjara 4 tahun,1.0,1.0
+drug_pred_02,Pengedar ganja ditangkap polisi dengan barang bukt...,"{'jenis_hukuman': 'pidana penjara', 'jenis_narkoba': 'tidak diketahui', 'jenis_tindakan': 'tidak diketahui', 'confidence': 1.0}",pidana penjara 5 tahun,1.0,1.0
+drug_pred_03,Terdakwa menggunakan narkotika heroin untuk keperl...,"{'jenis_hukuman': 'pidana penjara', 'jenis_narkoba': 'tidak diketahui', 'jenis_tindakan': 'menggunakan, memproduksi', 'confidence': 1.0}",rehabilitasi atau pidana penjara,1.0,1.0
+drug_pred_04,Pelaku mengedarkan ekstasi di klub malam dengan ke...,"{'jenis_hukuman': 'pidana penjara', 'jenis_narkoba': 'tidak diketahui', 'jenis_tindakan': 'menggunakan, memproduksi', 'confidence': 1.0}",pidana penjara 6 tahun,1.0,1.0
+drug_pred_05,Bandar besar narkotika sabu-sabu dengan jaringan i...,"{'jenis_hukuman': 'pidana penjara', 'jenis_narkoba': 'tidak diketahui', 'jenis_tindakan': 'tidak diketahui', 'confidence': 1.0}",pidana penjara seumur hidup,1.0,1.0
+drug_pred_06,Penyalahgunaan narkotika golongan I jenis kokain,"{'jenis_hukuman': 'pidana penjara', 'jenis_narkoba': 'tidak diketahui', 'jenis_tindakan': 'tidak diketahui', 'confidence': 1.0}",pidana penjara 3 tahun,1.0,1.0
+drug_pred_07,Perdagangan gelap precursor narkotika tanpa izin,"{'jenis_hukuman': 'tidak diketahui', 'jenis_narkoba': 'tidak diketahui', 'jenis_tindakan': 'tidak diketahui', 'confidence': 1.0}",pidana penjara 2 tahun,0.0,1.0
+drug_pred_08,Penggunaan THC untuk keperluan medis tanpa resep,"{'jenis_hukuman': 'tidak diketahui', 'jenis_narkoba': 'tidak diketahui', 'jenis_tindakan': 'tidak diketahui', 'confidence': 1.0}",rehabilitasi,0.0,1.0
+drug_pred_09,Sindikat pengedar MDMA lintas provinsi,"{'jenis_hukuman': 'tidak diketahui', 'jenis_narkoba': 'tidak diketahui', 'jenis_tindakan': 'tidak diketahui', 'confidence': 1.0}",pidana penjara 8 tahun,0.0,1.0
+drug_pred_10,Laboratorium gelap produksi metamfetamin,"{'jenis_hukuman': 'pidana penjara', 'jenis_narkoba': 'tidak diketahui', 'jenis_tindakan': 'tidak diketahui', 'confidence': 1.0}",pidana penjara 12 tahun,1.0,1.0

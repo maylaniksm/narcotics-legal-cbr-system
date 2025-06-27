@@ -1,0 +1,11 @@
+query_id,query,accuracy,precision,recall,f1_score,retrieved_docs,relevant_docs
+drug_query_01,Terdakwa terbukti menjual narkoba jenis sabu-sabu ...,1.0,1.0,1.0,1.0,5,5
+drug_query_02,Pengedar ganja ditangkap polisi dengan barang bukt...,1.0,1.0,1.0,1.0,5,5
+drug_query_03,Terdakwa menggunakan narkotika heroin untuk keperl...,1.0,1.0,1.0,1.0,5,5
+drug_query_04,Pelaku mengedarkan ekstasi di klub malam dengan ke...,1.0,1.0,1.0,1.0,5,5
+drug_query_05,Bandar besar narkotika sabu-sabu dengan jaringan i...,1.0,1.0,1.0,1.0,5,5
+drug_query_06,Penyalahgunaan narkotika golongan I jenis kokain,1.0,1.0,1.0,1.0,5,5
+drug_query_07,Perdagangan gelap precursor narkotika tanpa izin,1.0,1.0,1.0,1.0,5,5
+drug_query_08,Penggunaan THC untuk keperluan medis tanpa resep,1.0,1.0,1.0,1.0,5,5
+drug_query_09,Sindikat pengedar MDMA lintas provinsi,1.0,1.0,1.0,1.0,5,5
+drug_query_10,Laboratorium gelap produksi metamfetamin,1.0,1.0,1.0,1.0,5,5

@@ -1,0 +1,162 @@
+[
+  {
+    "query": "Tindak pidana penyalahgunaan sabu-sabu",
+    "ground_truth": [
+      "drug_case_013",
+      "drug_case_004",
+      "drug_case_005",
+      "drug_case_001",
+      "drug_case_064",
+      "drug_case_032",
+      "drug_case_056",
+      "drug_case_029",
+      "drug_case_050",
+      "drug_case_010"
+    ],
+    "query_type": "drug_crime"
+  },
+  {
+    "query": "kasus perdagangan ganja",
+    "ground_truth": [
+      "drug_case_050",
+      "drug_case_064",
+      "drug_case_062",
+      "drug_case_063",
+      "drug_case_060",
+      "drug_case_059",
+      "drug_case_058",
+      "drug_case_061",
+      "drug_case_057",
+      "drug_case_056"
+    ],
+    "query_type": "drug_crime"
+  },
+  {
+    "query": "pengedar narkotika heroin",
+    "ground_truth": [
+      "drug_case_050",
+      "drug_case_005",
+      "drug_case_062",
+      "drug_case_064",
+      "drug_case_060",
+      "drug_case_059",
+      "drug_case_058",
+      "drug_case_063",
+      "drug_case_057",
+      "drug_case_056"
+    ],
+    "query_type": "drug_crime"
+  },
+  {
+    "query": "kepemilikan ekstasi untuk dijual",
+    "ground_truth": [
+      "drug_case_064",
+      "drug_case_063",
+      "drug_case_062",
+      "drug_case_061",
+      "drug_case_060",
+      "drug_case_059",
+      "drug_case_058",
+      "drug_case_057",
+      "drug_case_056",
+      "drug_case_055"
+    ],
+    "query_type": "drug_crime"
+  },
+  {
+    "query": "rehabilitasi pengguna narkoba",
+    "ground_truth": [
+      "drug_case_050",
+      "drug_case_064",
+      "drug_case_062",
+      "drug_case_063",
+      "drug_case_060",
+      "drug_case_059",
+      "drug_case_058",
+      "drug_case_061",
+      "drug_case_057",
+      "drug_case_056"
+    ],
+    "query_type": "drug_crime"
+  },
+  {
+    "query": "penjara seumur hidup narkotika",
+    "ground_truth": [
+      "drug_case_050",
+      "drug_case_005",
+      "drug_case_004",
+      "drug_case_013",
+      "drug_case_001",
+      "drug_case_064",
+      "drug_case_019",
+      "drug_case_007",
+      "drug_case_042",
+      "drug_case_048"
+    ],
+    "query_type": "drug_crime"
+  },
+  {
+    "query": "denda uang karena sabu",
+    "ground_truth": [
+      "drug_case_032",
+      "drug_case_005",
+      "drug_case_029",
+      "drug_case_010",
+      "drug_case_056",
+      "drug_case_052",
+      "drug_case_050",
+      "drug_case_061",
+      "drug_case_007",
+      "drug_case_051"
+    ],
+    "query_type": "drug_crime"
+  },
+  {
+    "query": "barang bukti narkoba",
+    "ground_truth": [
+      "drug_case_050",
+      "drug_case_013",
+      "drug_case_001",
+      "drug_case_064",
+      "drug_case_005",
+      "drug_case_040",
+      "drug_case_055",
+      "drug_case_032",
+      "drug_case_029",
+      "drug_case_048"
+    ],
+    "query_type": "drug_crime"
+  },
+  {
+    "query": "UU 35 tahun 2009 narkotika",
+    "ground_truth": [
+      "drug_case_050",
+      "drug_case_005",
+      "drug_case_019",
+      "drug_case_061",
+      "drug_case_057",
+      "drug_case_048",
+      "drug_case_042",
+      "drug_case_052",
+      "drug_case_056",
+      "drug_case_007"
+    ],
+    "query_type": "drug_crime"
+  },
+  {
+    "query": "pidana penjara 5 tahun narkoba",
+    "ground_truth": [
+      "drug_case_005",
+      "drug_case_001",
+      "drug_case_013",
+      "drug_case_004",
+      "drug_case_064",
+      "drug_case_056",
+      "drug_case_050",
+      "drug_case_010",
+      "drug_case_032",
+      "drug_case_029"
+    ],
+    "query_type": "drug_crime"
+  }
+]
