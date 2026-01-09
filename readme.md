@@ -1,3 +1,7 @@
+# 🚀 LegalAI CBR: Analisis Tindak Pidana Narkotika
+
+**Implementasi Sistem Legal AI Berbasis Case-Based Reasoning untuk Analisis Tindak Pidana Narkotika**
+
 # Pipeline Scraping dan Ekstraksi Data Putusan Narkoba
 
 Notebook ini berfungsi untuk melakukan scraping data putusan terkait kasus narkoba, mengunduh file PDF putusan, dan mengekstrak isi dari file PDF tersebut. Proyek ini dirancang untuk berjalan secara _end-to-end_ di Google Colab, mulai dari pencarian data, pengambilan file, hingga penyimpanan hasil dalam format CSV.
